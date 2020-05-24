@@ -12,7 +12,6 @@ Love to learn, love music, love to go out and that's about it."
 
 :confused: :tired_face: :sweat_smile:
 
-![emoji](/git/graphics/ThinkingEmoji2)
 
 
 I had no idea what I am doing. I found it very hard and confusing. But today on May 23rd, two weeks later (only two weeks later!) I know what it's going on! I fact I have fun doing this. I am writting README file and I smile. It might not be the ***usual*** README file (hey did you notice italic and bold letters! It's called a *Markdown*. I didn't know about this either!) So two weeks later.. many things changed. Yes, I did put lots of effort, yes I have been reading a lot about it, and yes, I had a small breakown |:tired-face:| 
