@@ -19,7 +19,7 @@ I did some readings, resrarch and got my hands dirty with trial and error.
 
 **For _convenience_ I put together a list:** ![GitBasics.pdf](GitBasics.pdf)
 
-![](Emoji.PNG)
+![](images/Emoji.PNG)
 
   <h1> Hello world </h1>
   <h2> Hello world </h2>
