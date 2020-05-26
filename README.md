@@ -15,7 +15,7 @@ I did some readings, research and got my hands dirty with trial and error.
 [GitHub Guides]( https://guides.github.com/) were very helpful. :+1:
 
 ***Creating first repository can be pretty difficult, but with a simple task list can be much easier:***
--	[ ]  finish changes
+- [ ]  finish changes
 -	[ ] stage commits use `git add`
 -	[ ] push commits use `git commit`
 -	[ ] merge branches use `git merge`
