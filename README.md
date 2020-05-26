@@ -8,6 +8,7 @@ On May 8th I created my **first repository**. It was a bit overwhelming :sweat_s
 >I am Andreja. New to this and super excited to start working on useful projects.
 >Love to learn, love music, love to go out and that's about it."
 
+![](images/Emoji.PNG)
 
 I wasn’t quite sure what is the purpose of the README.md :confused:
 I did some readings, resrarch and got my hands dirty with trial and error. 
@@ -21,7 +22,6 @@ I did some readings, resrarch and got my hands dirty with trial and error.
 
 **For _convenience_ I put together a list:** ![GitBasics.pdf](GitBasics.pdf)
 
-![](images/Emoji.PNG)
 
   <h1> Hello world </h1>
   <h2> Hello world </h2>
@@ -30,3 +30,4 @@ I did some readings, resrarch and got my hands dirty with trial and error.
   <h5> Hello world </h5>
   <h6> Hello world </h6>
  
+![](images/Emoji2.PNG)
