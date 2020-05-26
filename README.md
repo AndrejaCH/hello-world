@@ -11,7 +11,7 @@ On May 8th I created my **first repository**. It was a bit overwhelming :sweat_s
 ![](images/Emoji.PNG)
 
 I wasn’t quite sure what is the purpose of the README.md :confused:
-I did some readings, resrarch and got my hands dirty with trial and error. 
+I did some readings, research and got my hands dirty with trial and error. 
 [GitHub Guides]( https://guides.github.com/) were very helpful. :+1:
 
 ***Creating first repository can be pretty difficult, but with a simple task list can be much easier:***
