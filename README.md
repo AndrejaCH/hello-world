@@ -7,6 +7,8 @@ On May 8th I created my **first repository**. It was a bit overwhelming :sweat_s
 >Hello everyone! 
 >I am Andreja. New to this and super excited to start working on useful projects.
 >Love to learn, love music, love to go out and that's about it."
+
+
 I wasn’t quite sure what is the purpose of the README.md :confused:
 I did some readings, resrarch and got my hands dirty with trial and error. 
 [GitHub Guides]( https://guides.github.com/) were very helpful. :+1:
