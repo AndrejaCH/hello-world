@@ -20,11 +20,11 @@ I did some readings, research and got my hands dirty with trial and error.
 -	[ ] push commits use `git commit`
 -	[ ] merge branches use `git merge`
 
-**For _convenience_ I put together a list:** ![GitBasics](GitBasics.pdf)
+**For _convenience_ I put together a list:** ![GitBasics](docs/GitBasics.pdf)
 
 *Extras*:
 Data analytics programs, its brief description and some useful terms:
-![CheckItOut](NewTerminology.pdf)
+![CheckItOut](docs/NewTerminology.pdf)
 
   <h1> Hello world </h1>
   <h2> Hello world </h2>
