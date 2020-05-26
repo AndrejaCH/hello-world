@@ -21,7 +21,6 @@ I did some readings, resrarch and got my hands dirty with trial and error.
 
 ![](Emoji.PNG)
 
-
   <h1> Hello world </h1>
   <h2> Hello world </h2>
   <h3> Hello world </h3>
