@@ -1,11 +1,11 @@
 # hello-world
-*My first repository*
+*<h3>My first repository</3>*
 
-<h2>Foreword</h2>
+<h4>Foreword</h4>
 
 On May 8th I created my *first repository*. It was a bit overwhelming :sweat_smile: because, every step was new to me. Today on May 25th things look quite different. I have learned so many new things in just a few weeks. I wanted to write it down in order to remember it in the future and want to keep this repository as a reminder of how persistence can be rewarding.
 
-<h2>My first *README.md*</h2>
+<h4>My first *README.md*</h4>
 
 >"ideas, practice, new-stuff"
 >Hello everyone!
@@ -14,7 +14,7 @@ On May 8th I created my *first repository*. It was a bit overwhelming :sweat_smi
 
 At that time I wasn’t quite sure what is the purpose of the README.md :confused: But, this is just the beginning of an adventure! :upside_down_face:
 
-<h2>My progress*</h2>
+<h4>My progress</h4>
 
 I did lots of readings, research, and got my hands dirty with trial and error. Also many thanks to [GitHub Guides]( https://guides.github.com/) , they are very helpful. :+1:
 
@@ -22,8 +22,8 @@ I put together a few \*beginner guidelines*\ that were very helpful when I was l
 
 ***A simple check-list***
 
-**Managing commits and using commands can be a bit confusing at the beginning,
-but with a simple task list it is much easier.**
+*Managing commits and using commands can be a bit confusing at the beginning,
+but with a simple task list it is much easier.*
 
 - [x]  update local repository `git pull`
 - [x]  finish and save changes
@@ -33,11 +33,11 @@ but with a simple task list it is much easier.**
 
 ***Basics Commands***
 
-**For a better understanding of some commands I put together a list _GitBasics_:** ![GitBasics.pdf](GitBasics.pdf)
+*For a better understanding of some commands I put together a list _GitBasics_:* ![GitBasics.pdf](GitBasics.pdf)
 
 ***Troubleshooting***
 
- **Commands can differ as you use them on your local repo or on remote repo. For example, changing the name of a file \*1st row*\ or using `git init`. **
+ *Commands can differ as you use them on your local repo or on remote repo. For example, changing the name of a file \*1st row*\ or using `git init`. *
 
 local git | remote git
 ----------|------------
@@ -46,7 +46,7 @@ git init | create a new repo on GitHub
 
 ***Appendix***
 
-**As a future Data Analysts I want to be well prepared with the terminology.**
+*As a future Data Analysts I want to be well prepared with the terminology.*
 ![CheckItOut](docs/NewTerminology.pdf)
 
 Thank you for **README** 
