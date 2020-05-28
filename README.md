@@ -1,5 +1,5 @@
 # hello-world
-*<h3>My first repository</3>*
+*My first repository*
 
 <h4>Foreword</h4>
 
