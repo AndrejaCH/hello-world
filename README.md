@@ -1,40 +1,55 @@
 # hello-world
-*<h2>My first repository</h2>*
+*My first repository*
 
-On May 12th I created my **first repository**. It was a bit overwhelming :sweat_smile: because every step was new to me. Today on May 25th things look quite different. I have learned so many new things in just few weeks that I wanted to write it down in order to remember it in the future. I want to keep this repository as a reminder that with persistence many things are possible.
-*My first README looked like this:*
+<h2>Foreword</h2>
+
+On May 8th I created my *first repository*. It was a bit overwhelming :sweat_smile: because, every step was new to me. Today on May 25th things look quite different. I have learned so many new things in just a few weeks. I wanted to write it down in order to remember it in the future and want to keep this repository as a reminder of how persistence can be rewarding.
+
+<h2>My first *README.md*</h2>
+
 >"ideas, practice, new-stuff"
->Hello everyone! 
+>Hello everyone!
 >I am Andreja. New to this and super excited to start working on useful projects.
 >Love to learn, love music, love to go out and that's about it."
 
-![](images/Emoji.PNG)
+At that time I wasn’t quite sure what is the purpose of the README.md :confused: But, this is just the beginning of an adventure! :upside_down_face:
 
-I wasn’t quite sure what is the purpose of the README.md :confused:
-I did some readings, research and got my hands dirty with trial and error. 
-[GitHub Guides]( https://guides.github.com/) were very helpful. :+1:
+<h2>My progress*</h2>
 
-***Managing commits and using commands can be a bit confusing at the beggining,
-but with a simple task list it is much easier:***
+I did lots of readings, research, and got my hands dirty with trial and error. Also many thanks to [GitHub Guides]( https://guides.github.com/) , they are very helpful. :+1:
 
-- [x] update local repo `git pull`
-- [ ] finish changes
--	[ ] stage commits use `git add`
--	[ ] push commits use `git commit`
--	[ ] merge branches use `git merge`
+I put together a few \*beginner guidelines*\ that were very helpful when I was learning about Git & GitHub.
 
-**For _convenience_ I put together a list:** ![GitBasics](docs/GitBasics.pdf)
+***A simple check-list***
 
-Different commands for local and remote repository
+**Managing commits and using commands can be a bit confusing at the beginning,
+but with a simple task list it is much easier.**
+
+- [x]  update local repository `git pull`
+- [x]  finish and save changes
+- [x] stage commits `git add`
+- [x] commit changes `git commit`
+- [x] push commits `git push`
+
+***Basics Commands***
+
+**For a better understanding of some commands I put together a list _GitBasics_:** ![GitBasics.pdf](GitBasics.pdf)
+
+***Troubleshooting***
+
+ **Commands can differ as you use them on your local repo or on remote repo. For example, changing the name of a file \*1st row*\ or using `git init`. **
 
 local git | remote git
 ----------|------------
 mv <old_FileName> <new_FileName> | git mv <old_FileName> <new_FileName>
 git init | create a new repo on GitHub
 
-*Extras*:
-Data analytics programs, its brief description and some useful terms:
+***Appendix***
+
+**As a future Data Analysts I want to be well prepared with the terminology.**
 ![CheckItOut](docs/NewTerminology.pdf)
+
+Thank you for **README** 
 
   <h1> Hello world </h1>
   <h2> Hello world </h2>
