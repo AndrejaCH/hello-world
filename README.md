@@ -5,7 +5,7 @@
 
 On May 8th I created my *first repository*. It was a bit overwhelming :sweat_smile: because, every step was new to me. Today on May 25th things look quite different. I have learned so many new things in just a few weeks. I wanted to write it down in order to remember it in the future and want to keep this repository as a reminder of how persistence can be rewarding.
 
-<h4>My first *README.md*</h4>
+<h4>My first README.md</h4>
 
 >"ideas, practice, new-stuff"
 >Hello everyone!
@@ -18,7 +18,7 @@ At that time I wasn’t quite sure what is the purpose of the README.md :confuse
 
 I did lots of readings, research, and got my hands dirty with trial and error. Also many thanks to [GitHub Guides]( https://guides.github.com/) , they are very helpful. :+1:
 
-I put together a few \*beginner guidelines*\ that were very helpful when I was learning about Git & GitHub.
+I put together a few \*beginner guidelines\* that were very helpful when I was learning about Git & GitHub.
 
 ***A simple check-list***
 
@@ -33,7 +33,7 @@ but with a simple task list it is much easier.*
 
 ***Basics Commands***
 
-*For a better understanding of some commands I put together a list _GitBasics_:* ![GitBasics.pdf](GitBasics.pdf)
+*For a better understanding of some commands I put together a list _GitBasics_:* ![GitBasics](GitBasics.pdf)
 
 ***Troubleshooting***
 
