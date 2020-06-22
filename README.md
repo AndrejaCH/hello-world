@@ -33,7 +33,7 @@ but with a simple task list it is much easier.*
 
 ***Basics Commands***
 
-*For a better understanding of some commands I put together a list _GitBasics_:* ![GitBasics](GitBasics.pdf)
+*For a better understanding of some commands I put together a list _GitBasics_:* ![GitBasics](docs/GitBasics.pdf)
 
 ***Troubleshooting***
 
