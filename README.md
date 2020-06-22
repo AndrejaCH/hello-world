@@ -37,7 +37,7 @@ but with a simple task list it is much easier.*
 
 ***Troubleshooting***
 
- *Commands can differ as you use them on your local repo or on remote repo. For example, changing the name of a file (see 1st row) or using `git init`. *
+*Commands can differ as you use them on your local repo or on remote repo. For example, changing the name of a file (see 1st row) or using `git init`.*
 
 local git | remote git
 ----------|------------
