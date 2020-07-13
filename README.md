@@ -42,7 +42,7 @@ but with a simple task list it is much easier.*
 local git | remote git
 ----------|------------
 mv <old_FileName> <new_FileName> | git mv <old_FileName> <new_FileName>
-git init | create a new repo on GitHub
+`git init` initialize local repo | create a new repo on GitHub and then clone it with `git clone <URL>`
 
 ***Appendix***
 
