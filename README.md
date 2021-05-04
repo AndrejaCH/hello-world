@@ -46,7 +46,7 @@ mv <old_FileName> <new_FileName> | git mv <old_FileName> <new_FileName>
 
 ***Appendix***
 
-*As a future Data Analysts I want to be well prepared with the terminology.*
+*As a future Data Analyst I want to be well prepared with the terminology.*
 ![CheckItOut](docs/NewTerminology.pdf)
 
 Thank you for **README** 
